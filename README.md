@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋 I’m Ishan as JJIShanid
 
-<!--d
-**JJIShanid/JJIShanid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Data Science – Business Analytics (SRH Fürth)  
+📍 Based in Nuremberg,Germany  
+  
+## 🔍 What I Do  
+- Build **data-driven solutions**: forecasting, dashboards, predictions  
+- Work with **time series (ARIMA, forecasting)**, **ML models**, **EDA & visualization**  
+- Create **interactive dashboards** (Streamlit / web) for business insights  
+- Explore **AI / deep learning** & applied projects  
 
-Here are some ideas to get you started:
+## 📂 Notable Projects  
+- **ARIMA-Rossmann Forecast** — time series forecasting for sales  
+- **Customer Churn Prediction Dashboard** — combining EDA + predictive modeling + dashboard  
+- **maven marketing analytics dashboard** — visualizing marketing metrics  
+- **FarmaPre** — project in agritech / health domain  
+- **Synthetic Customer Data Generation Dashboard** — data simulation + demo dashboard  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 *Pinned repos are a portfolio of what I build and care about.*  
+
+## 🌱 Always Learning  
+- Experimenting with transformer models, reinforcement learning  
+- Enhancing visualization skills (Plotly, Altair)  
+- Reading recent research in AI & data science  
+
+## 📫 Let’s Connect  
+- LinkedIn: www.linkedin.com/in/ishandharpawarid 
+- Email: idharpawar@gmail.com   
+
+⭐ Currently building → strong analytics & ML footprint in industry settings  
