@@ -1,32 +1,40 @@
-# Hi there 👋 I’m Ishan as JJIShanid
+# Hi, I'm Ishan 👋  
 
-🎓 MSc in Data Science – Business Analytics (SRH Fürth)
-🎓 Bachelor of Technology in Computer Engineering ( Data Science) 
-🎓 Diploma in Computer Engineering 
-📍 Based in Nuremberg,Germany  
-  
-## 🔍 What I Do  
-- Build **data-driven solutions**: forecasting, dashboards, predictions  
-- Work with **time series (ARIMA, forecasting)**, **ML models**, **EDA & visualization**  
-- Create **interactive dashboards** (Streamlit / web) for business insights  
-- Explore **AI / deep learning** & applied projects  
+🎓 Master's Student in Data Science - Business Analytics @ SRH University, Germany  
+🎓 B.Tech in Computer Engineering (specialization: Data Science & AI)  
+🎓 Diploma in Computer Engineering  
+💻 Data Scientist | Machine Learning & AI Enthusiast | Business Analytics  
+🌍 Passionate about applying AI/ML to solve problems in **marketing, sustainability, and business intelligence**.  
 
-## 📂 Notable Projects  
-- **ARIMA-Rossmann Forecast** — time series forecasting for sales  
-- **Customer Churn Prediction Dashboard** — combining EDA + predictive modeling + dashboard  
-- **maven marketing analytics dashboard** — visualizing marketing metrics  
-- **FarmaPre** — project in agritech / health domain  
-- **Synthetic Customer Data Generation Dashboard** — data simulation + demo dashboard  
+---
 
-👉 *Pinned repos are a portfolio of what I build and care about.*  
+## 🚀 Skills & Tools  
+- **Programming:** Python, SQL, R, MATLAB  
+- **Data Science & ML:** Scikit-learn, TensorFlow, Keras, PyTorch  
+- **Analytics & Visualization:** Power BI, Tableau, Streamlit, Matplotlib, Seaborn  
+- **Specialties:** Time-Series Forecasting, Marketing Analytics, Customer Churn Prediction  
+- **Languages:** English, German (learning A2), French A1.2  
 
-## 🌱 Always Learning  
-- Experimenting with transformer models, reinforcement learning  
-- Enhancing visualization skills (Plotly, Altair)  
-- Reading recent research in AI & data science  
+---
 
-## 📫 Let’s Connect  
-- LinkedIn: www.linkedin.com/in/ishandharpawarid 
-- Email: idharpawar@gmail.com   
+## 📌 Featured Projects  
+- 📊 [Customer Churn Prediction Dashboard]((https://github.com/JJIShanid/Customer-Churn-Prediction-Dashboard)) – Predicting and visualizing churn insights  
+- 🛒 [Rossmann Sales Forecast (ARIMA/Prophet)]((https://github.com/JJIShanid/ARIMA-Rossmann-Forecast)) – Forecasting retail sales with time series models  
+- 📈 [Marketing Analytics Dashboard]((https://github.com/JJIShanid/maven-marketing-analytics-dashboard)) – Interactive dashboard for campaign analysis  
+- 🏥 [Realtime-Weather-App--Flutter---esp32](https://github.com/JJIShanid/Realtime-Weather-App--Flutter---esp32) – About
+A real-time mobile application built using Flutter, integrated with Firebase Realtime Database, and connected to an ESP32 microcontroller.
+---
+
+## 🌟 Currently Exploring  
+- AI applications in **Marketing Analytics & Finance**  
+- Sustainable AI solutions in **Urban & Environmental Development**  
+
+---
+
+## 📫 Connect with Me  
+- 🌐 LinkedIn: www.linkedin.com/in/ishandharpawarid 
+- 📧 Email:idharpawar@gmail.com   
+- 🐙 GitHub: https://github.com/JJIShanid   
+ 
 
 ⭐ Currently building → strong analytics & ML footprint in industry settings  
