@@ -1,6 +1,8 @@
 # Hi there 👋 I’m Ishan as JJIShanid
 
-🎓 MSc in Data Science – Business Analytics (SRH Fürth)  
+🎓 MSc in Data Science – Business Analytics (SRH Fürth)
+🎓 Bachelor of Technology in Computer Engineering ( Data Science) 
+🎓 Diploma in Computer Engineering 
 📍 Based in Nuremberg,Germany  
   
 ## 🔍 What I Do  
