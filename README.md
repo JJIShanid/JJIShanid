@@ -22,6 +22,7 @@
 - 🛒 [Rossmann Sales Forecast (ARIMA/Prophet)]((https://github.com/JJIShanid/ARIMA-Rossmann-Forecast)) – Forecasting retail sales with time series models  
 - 📈 [Marketing Analytics Dashboard]((https://github.com/JJIShanid/maven-marketing-analytics-dashboard)) – Interactive dashboard for campaign analysis  
 - 🏥 [Realtime-Weather-App--Flutter---esp32](https://github.com/JJIShanid/Realtime-Weather-App--Flutter---esp32) – About
+-  🔗 AI-Driven Business Performance Analytics System -This project is a full-stack AI-driven Business Analytics platform that helps organizations monitor, forecast, and analyze key performance indicators (KPIs) interactively.
 A real-time mobile application built using Flutter, integrated with Firebase Realtime Database, and connected to an ESP32 microcontroller.
 ---
 
