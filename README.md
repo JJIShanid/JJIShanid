@@ -72,7 +72,7 @@ Customer segmentation insights
 
 Outcome: Helped optimize marketing spend and improve campaign effectiveness.
 
-GitHub / Demo: [Link to dashboard / PBIX file]
+GitHub / Demo: ---<img width="1529" height="951" alt="Marketing Analytics dashboard S2" src="https://github.com/user-attachments/assets/f8dbd471-f1f0-468d-b419-e9acf1abe2e6" />
 
 4. AI-Driven Business Performance Analytics System
 
