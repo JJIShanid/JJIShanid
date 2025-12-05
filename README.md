@@ -130,7 +130,7 @@ Tech Stack: Python, TensorFlow, PySpark, Web3.py, Smart Contracts (Solidity), Te
 
 Outcome: Optimized Ethereum, BNB, and MATIC network transactions, published research in International Journal of Innovative Research in Technology
 
-GitHub / Demo: [Link to repo / Demo video]
+GitHub / Demo: https://ijirt.org/article?manuscript=162025 
 
 
 
