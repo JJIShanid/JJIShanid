@@ -184,4 +184,4 @@ Meethub Application: International Journal of Scientific Research in Engineering
 Airdrop Hunter Bot: International Journal of Innovative Research in Technology
  
 
-⭐ Currently building → strong analytics & ML footprint in industry settings  
+⭐ Currently building → scalable AI/ML systems powering data-driven decisions
