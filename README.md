@@ -13,23 +13,40 @@
 - **Data Science & ML:** Scikit-learn, TensorFlow, Keras, PyTorch  
 - **Analytics & Visualization:** Power BI, Tableau, Streamlit, Matplotlib, Seaborn  
 - **Specialties:** Time-Series Forecasting, Marketing Analytics, Customer Churn Prediction  
-- **Languages:** English, German (learning A2), French A1.2  
+- **Languages:** English, German A2, French ( Learning A1.1 )  
 
 ---
 
-## 📌 Featured Projects  
-- 📊 [Customer Churn Prediction Dashboard]((https://github.com/JJIShanid/Customer-Churn-Prediction-Dashboard)) – Predicting and visualizing churn insights  
-- 🛒 [Rossmann Sales Forecast (ARIMA/Prophet)]((https://github.com/JJIShanid/ARIMA-Rossmann-Forecast)) – Forecasting retail sales with time series models  
-- 📈 [Marketing Analytics Dashboard]((https://github.com/JJIShanid/maven-marketing-analytics-dashboard)) – Interactive dashboard for campaign analysis  
-- 🏥 [Realtime-Weather-App--Flutter---esp32](https://github.com/JJIShanid/Realtime-Weather-App--Flutter---esp32) – About
--  🔗 AI-Driven Business Performance Analytics System -This project is a full-stack AI-driven Business Analytics platform that helps organizations monitor, forecast, and analyze key performance indicators (KPIs) interactively.
-A real-time mobile application built using Flutter, integrated with Firebase Realtime Database, and connected to an ESP32 microcontroller.
----
+📌 Featured Projects
 
-## 🌟 Currently Exploring  
-- AI applications in **Marketing Analytics & Finance**  
-- Sustainable AI solutions in **Urban & Environmental Development**  
+🔹 Customer Churn Prediction Dashboard (XAI + Streamlit)
+Machine learning pipeline with SHAP-based explainability for telecom churn analytics.
 
+🔹 Rossmann Sales Forecasting (Time Series: ARIMA/Prophet/XGBoost)
+End-to-end retail sales forecasting with model comparison and business insights.
+
+🔹 Marketing Analytics Dashboard (Power BI + Python)
+Interactive KPI reporting for campaign ROI, customer segmentation, & market demand analysis.
+
+🔹 AI-Driven Business Performance Analytics (Flutter + ESP32 + Firebase)
+A full-stack IoT + AI platform that monitors KPI data in real time, automates forecasting, and triggers alerts for business decisions.
+
+🔹 Smart Weather-Driven Crop Support System (Flutter + ESP32 + ML)
+Real-time weather sensing system connected to an AI model for crop recommendation & irrigation support (IoT + ML for AgriTech).
+
+🌟 Currently Exploring
+
+💡 GenAI & LLM Deployment for Business Automation
+Chatbots, document intelligence, and retrieval-augmented analytics (RAG) for enterprises.
+
+📊 AI-Powered Marketing Optimization & Revenue Forecasting
+Customer lifetime value (CLV), cross-selling, churn risk ranking, and price optimization.
+
+🌍 Sustainable & Smart Urban Analytics (IoT + AI)
+Urban mobility analytics, smart energy systems, and CO₂-aware city forecasting.
+
+🏭 AI in Manufacturing & Quality Assurance (Industry 4.0)
+Predictive maintenance, anomaly detection, ECU test automation, and sensor-based analytics.
 ---
 
 ## 📫 Connect with Me  
