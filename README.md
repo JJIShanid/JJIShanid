@@ -1,4 +1,10 @@
  # Hi, I'm Ishan 👋  
+ Welcome! This repository showcases my AI, ML, and Full-Stack projects, hackathon work, and research initiatives. Each project includes technical details, outcomes, and links to demos/code.
+
+ ## 📫 Connect with Me  
+- 🌐 LinkedIn: www.linkedin.com/in/ishandharpawarid 
+- 📧 Email:ishandharpawarid@gmail.com   
+- 🐙 GitHub: https://github.com/JJIShanid   
 
 🎓 Master's Student in Data Science - Business Analytics @ SRH University, Germany  
 🎓 B.Tech in Computer Engineering (specialization: Data Science & AI)  
@@ -17,22 +23,134 @@
 
 ---
 
-📌 Featured Projects
+Projects Overview
+1. Customer Churn Prediction Dashboard (XAI + Streamlit)
 
-🔹 Customer Churn Prediction Dashboard (XAI + Streamlit)
-Machine learning pipeline with SHAP-based explainability for telecom churn analytics.
+Description: End-to-end ML pipeline to predict telecom customer churn, with SHAP explainability for model interpretability.
 
-🔹 Rossmann Sales Forecasting (Time Series: ARIMA/Prophet/XGBoost)
-End-to-end retail sales forecasting with model comparison and business insights.
+Tech Stack: Python, Scikit-learn, Streamlit, SHAP, Pandas, Matplotlib
 
-🔹 Marketing Analytics Dashboard (Power BI + Python)
-Interactive KPI reporting for campaign ROI, customer segmentation, & market demand analysis.
+Features:
 
-🔹 AI-Driven Business Performance Analytics (Flutter + ESP32 + Firebase)
-A full-stack IoT + AI platform that monitors KPI data in real time, automates forecasting, and triggers alerts for business decisions.
+Interactive dashboard for visualizing churn risk
 
-🔹 Smart Weather-Driven Crop Support System (Flutter + ESP32 + ML)
-Real-time weather sensing system connected to an AI model for crop recommendation & irrigation support (IoT + ML for AgriTech).
+Model explainability to highlight factors influencing churn
+
+Outcome: Provided actionable insights for telecom retention strategies.
+
+GitHub / Demo: [Link to repo / Streamlit app]
+
+2. Rossmann Sales Forecasting (Time Series: ARIMA / Prophet / XGBoost)
+
+Description: Forecasted daily retail sales for a major chain using multiple models, and compared their performance.
+
+Tech Stack: Python, Pandas, NumPy, ARIMA, Prophet, XGBoost, Matplotlib
+
+Features:
+
+Data preprocessing and missing value handling
+
+Model comparison dashboard with visualization
+
+Exportable forecasts for inventory & staffing decisions
+
+Outcome: Enabled data-driven business decisions for retail operations.
+
+GitHub / Demo: [Link to repo / Streamlit app]
+
+3. Marketing Analytics Dashboard (Power BI + Python)
+
+Description: Interactive KPI reporting platform for marketing campaigns, customer segmentation, and market demand analysis.
+
+Tech Stack: Power BI, Python, Pandas, Matplotlib
+
+Features:
+
+Dashboard with dynamic filters & KPI visualization
+
+ROI and campaign performance analysis
+
+Customer segmentation insights
+
+Outcome: Helped optimize marketing spend and improve campaign effectiveness.
+
+GitHub / Demo: [Link to dashboard / PBIX file]
+
+4. AI-Driven Business Performance Analytics System
+
+Description: Full-stack IoT + AI platform monitoring KPI data in real-time, performing forecasts, and sending alerts.
+
+Tech Stack: Flutter, ESP32, Firebase, Python, ML models, Streamlit
+
+Features:
+
+Interactive dashboards for business KPIs
+
+Real-time forecasting and alerting system
+
+Automated ML model retraining pipeline
+
+Outcome: Enabled data-driven operational decision-making.
+
+GitHub / Demo: [Link to repo / Demo video]
+
+5. Smart Weather-Driven Crop Support System (IoT + ML)
+
+Description: Real-time weather sensing system with AI for crop recommendations, irrigation alerts, and pest detection.
+
+Tech Stack: Flutter, ESP32, Python, ML models, Streamlit
+
+Features:
+
+Crop prediction & fertilizer recommendation system
+
+Real-time weather-based alerts
+
+IoT integration for sensors & dashboard visualization
+
+Outcome: Enhanced agricultural decision-making and resource optimization.
+
+GitHub / Demo: [Link to repo / Demo video]
+
+6. Meethub Application (Diploma Project)
+
+Description: AI-enhanced virtual conferencing app with real-time speech-to-text, noise reduction, and meeting summaries.
+
+Tech Stack: Python, AI models, Flask, WebRTC, NLP libraries
+
+Outcome: Published research in International Journal of Scientific Research in Engineering and Management
+
+GitHub / Demo: [Link to repo / Demo video]
+
+7. Airdrop Hunter Bot (Bachelor’s Thesis)
+
+Description: Sybil-resistant bot for secure cryptocurrency transactions with AI-driven fraud detection.
+
+Tech Stack: Python, TensorFlow, PySpark, Web3.py, Smart Contracts (Solidity), Telegram API
+
+Outcome: Optimized Ethereum, BNB, and MATIC network transactions, published research in International Journal of Innovative Research in Technology
+
+GitHub / Demo: [Link to repo / Demo video]
+
+8. Farmapre – Hackathon Project
+
+Description: AI & Deep Learning full-stack platform for farmers – crop predictions, fertilizer recommendations, and pest detection.
+
+Tech Stack: Python, TensorFlow, Flask, Flutter, IoT integration, image processing
+
+Outcome: Semifinalist at hackathon; practical application of AI for smart agriculture
+
+GitHub / Demo: [Link to repo / Demo video]
+
+Other Projects / Mini Projects
+
+Engineering Graphics Models – 3D modeling during diploma
+
+Database Management Optimization – Improved DB performance
+
+AI-driven Financial Forecasting Tool – Advanced Java project
+
+Real-time Object Recognition App – Mobile AI app
 
 🌟 Currently Exploring
 
@@ -49,10 +167,21 @@ Urban mobility analytics, smart energy systems, and CO₂-aware city forecasting
 Predictive maintenance, anomaly detection, ECU test automation, and sensor-based analytics.
 ---
 
-## 📫 Connect with Me  
-- 🌐 LinkedIn: www.linkedin.com/in/ishandharpawarid 
-- 📧 Email:idharpawar@gmail.com   
-- 🐙 GitHub: https://github.com/JJIShanid   
+##Achievements
+
+Semi-finalist & Top 20/400+ at ETHseoul 2023
+
+Top 30/120 teams in Smart India Hackathon
+
+University Kho Kho champion; 3rd place in badminton & cricket
+
+Head Coordinator – IT Colloquium Project Expo & e-sports events
+
+##Publications
+
+Meethub Application: International Journal of Scientific Research in Engineering and Management
+
+Airdrop Hunter Bot: International Journal of Innovative Research in Technology
  
 
 ⭐ Currently building → strong analytics & ML footprint in industry settings  
