@@ -110,7 +110,7 @@ IoT integration for sensors & dashboard visualization
 
 Outcome: Enhanced agricultural decision-making and resource optimization.
 
-GitHub / Demo: [Link to repo / Demo video]
+GitHub / Demo: (https://github.com/JJIShanid/Realtime-Weather-App--Flutter---esp32)
 
 6. Meethub Application (Diploma Project)
 
