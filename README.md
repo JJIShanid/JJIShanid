@@ -1,4 +1,4 @@
-# Hi, I'm Ishan 👋  
+C:\Users\asus\Desktop\Masters Documents4\IshanDD.png # Hi, I'm Ishan 👋  
 
 🎓 Master's Student in Data Science - Business Analytics @ SRH University, Germany  
 🎓 B.Tech in Computer Engineering (specialization: Data Science & AI)  
