@@ -92,7 +92,8 @@ Automated ML model retraining pipeline
 
 Outcome: Enabled data-driven operational decision-making.
 
-GitHub / Demo: <img width="1912" height="812" alt="Screenshot 2025-12-05 161243" src="https://github.com/user-attachments/assets/48a765b0-0193-4f85-b307-00e84cdd8ae2" />
+GitHub / Demo: https://github.com/JJIShanid/AI-Driven-Business-Performance-Analytics-System  
+<img width="1912" height="812" alt="Screenshot 2025-12-05 161243" src="https://github.com/user-attachments/assets/48a765b0-0193-4f85-b307-00e84cdd8ae2" />
 ]
 
 5. Smart Weather-Driven Crop Support System (IoT + ML)
