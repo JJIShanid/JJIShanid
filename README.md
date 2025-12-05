@@ -142,7 +142,12 @@ Tech Stack: Python, TensorFlow, Flask, Flutter, IoT integration, image processin
 
 Outcome: Semifinalist at hackathon; practical application of AI for smart agriculture
 
-GitHub / Demo: [Link to repo / Demo video]
+GitHub / Demo: https://github.com/JJIShanid/FarmaPre 
+
+
+https://github.com/user-attachments/assets/549cac0f-b52e-40aa-b063-afc0404015a1
+
+
 
 Other Projects / Mini Projects
 
