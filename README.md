@@ -54,7 +54,7 @@ Exportable forecasts for inventory & staffing decisions
 
 Outcome: Enabled data-driven business decisions for retail operations.
 
-GitHub / Demo: [Link to repo / Streamlit app]
+GitHub / Demo: <img width="1917" height="955" alt="p1" src="https://github.com/user-attachments/assets/21598bd2-47ba-45fc-b7fc-589cb758b521" />
 
 3. Marketing Analytics Dashboard (Power BI + Python)
 
