@@ -24,21 +24,19 @@
 ---
 
 Projects Overview
-1. Customer Churn Prediction Dashboard (XAI + Streamlit)
+1. Farmapre – Hackathon Project
 
-Description: End-to-end ML pipeline to predict telecom customer churn, with SHAP explainability for model interpretability.
+Description: AI & Deep Learning full-stack platform for farmers – crop predictions, fertilizer recommendations, and pest detection.
 
-Tech Stack: Python, Scikit-learn, Streamlit, SHAP, Pandas, Matplotlib
+Tech Stack: Python, TensorFlow, Flask, Flutter, IoT integration, image processing
 
-Features:
+Outcome: Semifinalist at hackathon; practical application of AI for smart agriculture
 
-Interactive dashboard for visualizing churn risk
+GitHub / Demo: https://github.com/JJIShanid/FarmaPre 
 
-Model explainability to highlight factors influencing churn
 
-Outcome: Provided actionable insights for telecom retention strategies.
+https://github.com/user-attachments/assets/549cac0f-b52e-40aa-b063-afc0404015a1
 
-GitHub / Demo: [Link to repo / Streamlit app]
 
 2. Rossmann Sales Forecasting (Time Series: ARIMA / Prophet / XGBoost)
 
@@ -134,18 +132,6 @@ Outcome: Optimized Ethereum, BNB, and MATIC network transactions, published rese
 
 GitHub / Demo: [Link to repo / Demo video]
 
-8. Farmapre – Hackathon Project
-
-Description: AI & Deep Learning full-stack platform for farmers – crop predictions, fertilizer recommendations, and pest detection.
-
-Tech Stack: Python, TensorFlow, Flask, Flutter, IoT integration, image processing
-
-Outcome: Semifinalist at hackathon; practical application of AI for smart agriculture
-
-GitHub / Demo: https://github.com/JJIShanid/FarmaPre 
-
-
-https://github.com/user-attachments/assets/549cac0f-b52e-40aa-b063-afc0404015a1
 
 
 
